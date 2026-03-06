@@ -60,7 +60,7 @@ PACKAGES="$PACKAGES luci-app-openclash"
 PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
 PACKAGES="$PACKAGES luci-app-store"
-PACKAGES="$PACKAGES openssh-sftp-server"
+PACKAGES="$PACKAGES luci-app-lucky"
 
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
